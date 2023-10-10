@@ -6,3 +6,4 @@ Ini adalah website yang saya buat pada kelas sertifikasi Belajar Dasar Pemrogram
 - Responsive (480px 768px 1200px)
 
 Waktu Pengerjaan/Working Time : 5 jam
+Link : https://axlecode.github.io/Axle-Computer-Simple-Company-Profile-/
